@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## Projects
+
+### AI
+Lead Discovery AI Agent - PX 
+
+### Mindfulness App 
+ZenMode - Reduce screentime and improve shortening attention span
+Description: Users can block access to any downloaded apps, and set timers to medidate?.
+
+## Technical Skills
+
 <!--
 **asi-j-b/asi-j-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
