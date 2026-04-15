@@ -1,7 +1,12 @@
 ## Hi, I'm Asi Bolina 👋
+Currently refining this README to include all my side projects apart from uni coursework. Ref: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 
 ## Projects
 ### AI
+Project | Technology Stack | Description
+--- | --- | ---
+ZenMode | React, TypeScript | Users can take back their shortening attention span
+Lead Discovery AI Agent
 <!-- Lead Discovery AI Agent - PX 
 Description: Users can use an AI Agent to find leads from various platforms e.g. Facebook -->
 
@@ -11,17 +16,17 @@ Description: Users can block access to any downloaded apps, and set timers to me
 
 ## Technical Skills
 ### Frontend
-React
-Next.js
-Tailwind CSS
+* React
+* Next.js
+* Tailwind CSS
 
 ### Backend
-Node.js
-Express
+* Node.js
+* Express
 
 ### Database
-PostgreSQL
-Prisma
+* PostgreSQL
+* Prisma
 
 <!--
 **asi-j-b/asi-j-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
